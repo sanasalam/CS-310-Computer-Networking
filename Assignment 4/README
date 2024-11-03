@@ -1,0 +1,5 @@
+To run pim.py or fifo.py, use:
+- python3 pim.py -p 16 -a 0.5 -s 1 -i 1
+- python3 fifo.py -p 16 -a 0.5 -s 1
+
+Please refer to assignment4_extra_credit.pdf for details.
